@@ -30,4 +30,8 @@ Este curso consiste de tres módulos.
    3. ¿Cómo crece una población?
    4. Modelo del rendimiento de una cuenta de ahorro
 
+<<<<<<< HEAD
 Este archivo contiene datos importantes del curso.
+=======
+Prueba de la clase del día 26/08/2020
+>>>>>>> master
